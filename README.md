@@ -8,4 +8,4 @@ For brukere:
 
 * excel filen må være i samme mappe.
 
-* kjør programmet i vscode eller jupyter
+* kjør programmet i vscode eller jupyter.
