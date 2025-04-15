@@ -6,6 +6,6 @@ Et Python-prosjekt som analyserer kundedata fra supportavdelingen til et telefon
 
 For brukere:
 
-* excel filen må være i samme mappe
+* excel filen må være i samme mappe.
 
 * kjør programmet i vscode eller jupyter
